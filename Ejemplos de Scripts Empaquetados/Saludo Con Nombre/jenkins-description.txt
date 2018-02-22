@@ -1,0 +1,9 @@
+### Objetivo de Tarea
+
+Testear script empaquetado.
+
+### Instrucciones
+
+1. Haga clic en Ejecutar Tarea.
+2. Ingrese un nombre. Haga clic en Ejecución.
+4. Para ver ejecución, haga clic en el **círculo** a la izquierda del número de ejecución.
