@@ -16,4 +16,4 @@ Ejecute el archivo "RUN".
 
 Se ha guardado la siguiente imagen en la carpeta "images":
 
-![Imagen](images/imagen_ejemplo.png)
+![Imagen](images/imagen_ejemplo.PNG)
