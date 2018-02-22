@@ -1,0 +1,1 @@
+Debe ejecutarse en máquina Windows (o máquina que ejecute archivos Batch).
